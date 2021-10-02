@@ -1,0 +1,519 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SteelArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_helmet_recipe"
+    },
+    {
+      "name": "SteelArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_body_recipe"
+    },
+    {
+      "name": "SteelArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_leggings_recipe"
+    },
+    {
+      "name": "SteelArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_armor_boots_recipe"
+    },
+    {
+      "name": "WroughtWood",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_wood"
+    },
+    {
+      "name": "WroughtLog",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_log"
+    },
+    {
+      "name": "WroughtPlanks",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_planks"
+    },
+    {
+      "name": "WroughtLeaves",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_leaves"
+    },
+    {
+      "name": "WroughtStairs",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_stairs"
+    },
+    {
+      "name": "WroughtSlab",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_slab"
+    },
+    {
+      "name": "WroughtFence",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_fence"
+    },
+    {
+      "name": "WroughtFenceGate",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_fence_gate"
+    },
+    {
+      "name": "WroughtPressurePlate",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_pressure_plate"
+    },
+    {
+      "name": "WroughtButton",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_button"
+    },
+    {
+      "name": "WroughtItemsTag",
+      "type": "tag",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_items_tag"
+    },
+    {
+      "name": "WroughtWoodRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_wood_recipe"
+    },
+    {
+      "name": "WroughtPlanksRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_planks_recipe"
+    },
+    {
+      "name": "WroughtStairsRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_stairs_recipe"
+    },
+    {
+      "name": "WroughtSlabRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_slab_recipe"
+    },
+    {
+      "name": "WroughtFenceRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_fence_recipe"
+    },
+    {
+      "name": "WroughtFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_fence_gate_recipe"
+    },
+    {
+      "name": "WroughtPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_pressure_plate_recipe"
+    },
+    {
+      "name": "WroughtButtonRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_button_recipe"
+    },
+    {
+      "name": "WroughtStickRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_stick_recipe"
+    },
+    {
+      "name": "SteelIngot",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_ingot"
+    },
+    {
+      "name": "SteelBlock",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_block"
+    },
+    {
+      "name": "SteelOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_ore_block_recipe"
+    },
+    {
+      "name": "SteelBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_block_ore_recipe"
+    },
+    {
+      "name": "TheOuterAbyss",
+      "type": "biome",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_outer_abyss"
+    },
+    {
+      "name": "Steel",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SteelCraft",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_craft"
+    },
+    {
+      "name": "SteelBlockCraft",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_block_craft"
+    },
+    {
+      "name": "WroughtWarts",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wrought_warts"
+    },
+    {
+      "name": "TheOuterEnd",
+      "type": "dimension",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_outer_end",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Wale",
+      "type": "fluid",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wale",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "TheEndOnceMore",
+      "type": "achievement",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_end_once_more"
+    },
+    {
+      "name": "CheapSteel",
+      "type": "achievement",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheap_steel"
+    },
+    {
+      "name": "IceAspect",
+      "type": "enchantment",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_aspect"
+    },
+    {
+      "name": "SteeltoolsPickaxe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steeltools_pickaxe"
+    },
+    {
+      "name": "SteeltoolsAxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steeltools_axe"
+    },
+    {
+      "name": "SteeltoolsSword",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steeltools_sword"
+    },
+    {
+      "name": "SteeltoolsShovel",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steeltools_shovel"
+    },
+    {
+      "name": "SteeltoolsHoe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steeltools_hoe"
+    },
+    {
+      "name": "SteeltoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steeltools_pickaxe_recipe"
+    },
+    {
+      "name": "SteeltoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steeltools_axe_recipe"
+    },
+    {
+      "name": "SteeltoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steeltools_sword_recipe"
+    },
+    {
+      "name": "SteeltoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steeltools_shovel_recipe"
+    },
+    {
+      "name": "SteeltoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steeltools_hoe_recipe"
+    },
+    {
+      "name": "BeyondTheEnd",
+      "type": "tab",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beyond_the_end"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.cheap_steel.title": "Cheap Steel",
+      "block.beyond_the_end.wrought_stairs": "Wrought Stairs",
+      "item.beyond_the_end.steel_ingot": "Steel",
+      "item.beyond_the_end.steeltools_shovel": "Steel Shovel",
+      "biome.beyond_the_end.the_outer_abyss": "The Outer Abyss",
+      "item.beyond_the_end.steel_leggings": "Steel Leggings",
+      "block.beyond_the_end.wrought_pressure_plate": "Wrought Pressure Plate",
+      "itemGroup.tabbeyond_the_end": "Beyond The End",
+      "advancements.cheap_steel.descr": "Upgrade a Piece of iron to steel",
+      "block.beyond_the_end.wrought_fence_gate": "Wrought Fence Gate",
+      "advancements.the_end_once_more.descr": "Get into the Outer End",
+      "block.beyond_the_end.wrought_fence": "Wrought Fence",
+      "item.beyond_the_end.steel_chestplate": "Steel Body",
+      "block.beyond_the_end.wrought_leaves": "Wrought Leaves",
+      "fluid.beyond_the_end.wale": "Wale",
+      "item.beyond_the_end.wale_bucket": "Wale Bucket",
+      "advancements.the_end_once_more.title": "The End Once More",
+      "item.beyond_the_end.steel_boots": "Steel Boots",
+      "item.beyond_the_end.steeltools_pickaxe": "Steel Pickaxe",
+      "item.beyond_the_end.steeltools_hoe": "Steel Hoe",
+      "block.beyond_the_end.wrought_wood": "Wrought Wood",
+      "block.beyond_the_end.steel_block": "Block of Steel",
+      "block.beyond_the_end.wrought_slab": "Wrought Slab",
+      "item.beyond_the_end.steel_helmet": "Steel Helmet",
+      "enchantment.beyond_the_end.ice_aspect": "Ice Aspect",
+      "block.beyond_the_end.wrought_button": "Wrought Button",
+      "block.beyond_the_end.wale": "Wale",
+      "block.beyond_the_end.wrought_warts": "Wrought Warts",
+      "item.beyond_the_end.steeltools_sword": "Steel Sword",
+      "block.beyond_the_end.wrought_planks": "Wrought Planks",
+      "item.beyond_the_end.steeltools_axe": "Steel Axe",
+      "block.beyond_the_end.wrought_log": "Wrought Log",
+      "item.beyond_the_end.the_outer_end": "Dragons Egg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "beyond_the_end",
+    "modName": "Beyond The End",
+    "version": "1.0.0",
+    "author": "Moore, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.beyondtheend",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
